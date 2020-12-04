@@ -1,0 +1,6 @@
+﻿  Menuely.cpp
+D:\NU\CSCI 313\Project\Menuely\Menuely.cpp(32,23): error C2660: 'user::delete_account': function does not take 0 arguments
+D:\NU\CSCI 313\Project\Menuely\user.h(16,7): message : see declaration of 'user::delete_account'
+  user.cpp
+D:\NU\CSCI 313\Project\Menuely\user.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Generating Code...
